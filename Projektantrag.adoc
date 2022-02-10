@@ -1,0 +1,17 @@
+= Endless Runner
+
+== Projektmitglieder:
+* Alo Rsheed (Projektleiter)
+* Gabriel Papic
+* Berdan Kadir
+* Simon Raaber
+
+== Projektbeschreibung:
+Unser Projekt ist ein Unity-2D Jump and Run Spiel, bei dem der Charakter ein endloses automatisch generiertes Level erkunden kann.
+Dabei gibt es verschieden Hindernisse, die der Spieler überwinden muss.
+Außerdem beinhalten die Levels automatisch generierte Gegner, welche sich frei bewegen und schießen können.
+Die Anzahl und Schwierigkeiten der Gegner erhöhen sich dabei mit dem Fortschritt des Levels.
+Um sich mit anderen Spielern vergleichen zu können wird der Highscore jedes einzelnen Spielers gespeichert und in einer Liste angezeigt.
+
+== Technologien
+Unity, C#
