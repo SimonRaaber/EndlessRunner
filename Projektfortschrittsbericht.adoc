@@ -1,0 +1,51 @@
+= Projektfortschrittsbericht
+Endless Runner
+11.03.2022
+
+== Projektstatus
+Ampfelfarbe: Gelb
+
+Wie wir angefangen haben eine Projekt zu starten, haben wir uns auf "Try2Cheat" geeinigt, eine Software die es verhindern soll zu schummeln.
+Kurz darauf sind wir drauf gekommen, dass wir weder die Technologie oder das Wissen dazu haben.
+Daraufhin haben wir uns eine neue Idee. Wir haben da Unity gebraucht und mussten deswegen auch viele Videos schauen.
+Die Arbeitspakete sind vorbereitet und unser Team hat angefangen zum arbeiten, die Arbeitspakete sind aber noch nicht fertig.
+
+== Abgeschlossene Arbeiten
+* Installation von Unity
+* Mit der Entwicklungsumgebung vertraut machen
+
+== Arbeitspakete in Arbeit
+* Levelgeneration
+* Spielerbewegung
+
+== Zukünftige Schritte
+* Menü
+* Gegner
+
+== Zeitplan
+
+[plantuml]
+....
+@startuml
+[UI] lasts 21 days
+[Spieler] lasts 35 days
+[Gegner] lasts 28 days
+[Level] lasts 63 days
+[Grafiken] lasts 49 days
+
+Project starts 2022-02-12
+[UI] starts 2022-03-11
+[Spieler] starts 2022-03-18
+[Gegner] starts 2022-03-18
+[Level] starts 2022-02-12
+[Grafiken] starts 2022-02-12
+
+
+
+[UI] is colored in Green
+[Spieler] is colored in Yellow
+[Gegner] is colored in Red
+[Level] is colored in Blue
+[Grafiken] is colored in Grey
+@enduml
+....
