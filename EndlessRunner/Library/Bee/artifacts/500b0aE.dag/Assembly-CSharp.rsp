@@ -335,6 +335,7 @@
 "Assets/LevelGeneration.cs"
 "Assets/MovingPlatform.cs"
 "Assets/PlayerCollection.cs"
+"Assets/PlayerController.cs"
 "Assets/PlayerMovement.cs"
 -langversion:8.0
 
